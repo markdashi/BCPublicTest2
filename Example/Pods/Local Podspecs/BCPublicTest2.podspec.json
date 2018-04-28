@@ -1,0 +1,22 @@
+{
+  "name": "BCPublicTest2",
+  "version": "0.1.0",
+  "summary": "A short description of BCPublicTest2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/markdashi/BCPublicTest2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "markdashi": "274007989@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/markdashi/BCPublicTest2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BCPublicTest2/Classes/**/*"
+}

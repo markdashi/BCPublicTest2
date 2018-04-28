@@ -1,0 +1,16 @@
+PODS:
+  - BCPublicTest2 (0.1.0)
+
+DEPENDENCIES:
+  - BCPublicTest2 (from `../`)
+
+EXTERNAL SOURCES:
+  BCPublicTest2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BCPublicTest2: 42091dee9376a0e3c921be9b6aecc5cb023997e5
+
+PODFILE CHECKSUM: 4e1adb7e32c15dc8ab87a4ed9b7adf238dc884a3
+
+COCOAPODS: 1.5.0
