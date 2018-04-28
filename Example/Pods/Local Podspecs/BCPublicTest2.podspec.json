@@ -1,9 +1,9 @@
 {
   "name": "BCPublicTest2",
   "version": "0.1.0",
-  "summary": "A short description of BCPublicTest2.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/markdashi/BCPublicTest2",
+  "summary": "BCPublicTest2",
+  "description": "BCPublicTest2 我在测试测试",
+  "homepage": "https://github.com/markdashi",
   "license": {
     "type": "MIT",
     "file": "LICENSE"

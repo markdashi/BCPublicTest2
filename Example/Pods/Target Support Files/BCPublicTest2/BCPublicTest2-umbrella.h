@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "BCTest.h"
 
 FOUNDATION_EXPORT double BCPublicTest2VersionNumber;
 FOUNDATION_EXPORT const unsigned char BCPublicTest2VersionString[];
